@@ -36,13 +36,6 @@
 
 ---
 
-## 🎓 Certifications
-
-- 📄 **Google Cloud Certified** – *(e.g., Associate Cloud Engineer)*  
-  🔗 [View Certificate](https://www.credential.net/) <!-- Add actual cert link if available -->
-
----
-
 ## 📊 GitHub Stats
 
 ![Pavan5p's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavan5p&show_icons=true&theme=default)
@@ -53,9 +46,9 @@
 
 ## 📫 Let's Connect
 
-- ✉️ Email: [your.email@example.com](mailto:your.email@example.com) <!-- Replace with your email -->
-- 🔗 LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin) <!-- Replace with real link -->
-- 🌐 Portfolio: [Coming Soon] or [yourwebsite.com](https://yourwebsite.com)
+- ✉️ Email:pavanteja1216@gmail.com
+- 🔗 LinkedIn: www.linkedin.com/in/pavana-teja-reddy-beeram-381670325/
+
 
 ---
 
